@@ -1,0 +1,28 @@
+{
+  "files": {
+    "index.js": [
+      {
+        "id": "25303e58-40e9-4e83-85e5-3e872042b6f6",
+        "line": 1,
+        "version": 798,
+        "index": 0
+      }
+    ],
+    "lib/inject/index.js": [
+      {
+        "id": "f980c79f-d92d-45d6-9149-a99e5d6cdddc",
+        "line": 98,
+        "version": 2329,
+        "index": 6148
+      }
+    ],
+    "lib/rewrites/cookie.js": [
+      {
+        "id": "534b3850-57b6-448b-85ec-0b599976108f",
+        "line": 5,
+        "version": 1,
+        "index": 51
+      }
+    ]
+  }
+}
