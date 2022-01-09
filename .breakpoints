@@ -28,8 +28,8 @@
       {
         "id": "95bcd358-6d16-4fa6-a4a8-4f9b1e474a7d",
         "line": 20,
-        "version": 911,
-        "index": 709
+        "version": 919,
+        "index": 701
       }
     ],
     "lib/rewrites/cookie.js": [
@@ -44,7 +44,7 @@
       {
         "id": "b05b859e-e57e-4bdc-a58a-59147e4d9059",
         "line": 1,
-        "version": 6685,
+        "version": 6713,
         "index": 0
       }
     ]
