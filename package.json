@@ -14,6 +14,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "css": "^3.0.0",
+    "css-tree": "^2.0.4",
     "jsdom": "^19.0.0",
     "webpack": "^5.65.0",
     "ws": "^8.4.0"
