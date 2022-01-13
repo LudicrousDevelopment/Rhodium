@@ -4,7 +4,7 @@
       {
         "id": "25303e58-40e9-4e83-85e5-3e872042b6f6",
         "line": 1,
-        "version": 1025,
+        "version": 1044,
         "index": 0
       }
     ],
@@ -20,7 +20,7 @@
       {
         "id": "fb95480d-7080-4792-a798-0e41c93ee956",
         "line": 1,
-        "version": 4136,
+        "version": 6079,
         "index": 0
       }
     ],
@@ -28,8 +28,8 @@
       {
         "id": "95bcd358-6d16-4fa6-a4a8-4f9b1e474a7d",
         "line": 16,
-        "version": 1280,
-        "index": 519
+        "version": 1299,
+        "index": 532
       }
     ],
     "lib/rewrites/cookie.js": [
