@@ -20,16 +20,22 @@
       {
         "id": "fb95480d-7080-4792-a798-0e41c93ee956",
         "line": 1,
-        "version": 7807,
+        "version": 14864,
         "index": 0
+      },
+      {
+        "id": "9205d1e7-f6d1-4ee1-82cc-5bed42181a0d",
+        "line": 47,
+        "version": 14864,
+        "index": 939
       }
     ],
     "lib/rewrite/js.js": [
       {
         "id": "95bcd358-6d16-4fa6-a4a8-4f9b1e474a7d",
-        "line": 16,
-        "version": 1299,
-        "index": 532
+        "line": 21,
+        "version": 1789,
+        "index": 844
       }
     ],
     "lib/rewrites/cookie.js": [
