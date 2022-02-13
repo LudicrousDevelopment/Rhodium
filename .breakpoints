@@ -4,7 +4,7 @@
       {
         "id": "25303e58-40e9-4e83-85e5-3e872042b6f6",
         "line": 1,
-        "version": 1097,
+        "version": 1125,
         "index": 0
       }
     ],
@@ -20,22 +20,22 @@
       {
         "id": "fb95480d-7080-4792-a798-0e41c93ee956",
         "line": 1,
-        "version": 23559,
+        "version": 24539,
         "index": 0
       },
       {
         "id": "9205d1e7-f6d1-4ee1-82cc-5bed42181a0d",
-        "line": 789,
-        "version": 23559,
-        "index": 28188
+        "line": 854,
+        "version": 24539,
+        "index": 30649
       }
     ],
     "lib/rewrite/js.js": [
       {
         "id": "95bcd358-6d16-4fa6-a4a8-4f9b1e474a7d",
-        "line": 22,
-        "version": 1855,
-        "index": 908
+        "line": 25,
+        "version": 2137,
+        "index": 1168
       }
     ],
     "lib/rewrites/cookie.js": [
