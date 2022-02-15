@@ -20,22 +20,22 @@
       {
         "id": "fb95480d-7080-4792-a798-0e41c93ee956",
         "line": 1,
-        "version": 24539,
+        "version": 25596,
         "index": 0
       },
       {
         "id": "9205d1e7-f6d1-4ee1-82cc-5bed42181a0d",
-        "line": 854,
-        "version": 24539,
-        "index": 30649
+        "line": 905,
+        "version": 25596,
+        "index": 33445
       }
     ],
     "lib/rewrite/js.js": [
       {
         "id": "95bcd358-6d16-4fa6-a4a8-4f9b1e474a7d",
-        "line": 25,
-        "version": 2137,
-        "index": 1168
+        "line": 27,
+        "version": 2430,
+        "index": 1611
       }
     ],
     "lib/rewrites/cookie.js": [
